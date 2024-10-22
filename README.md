@@ -68,7 +68,7 @@ Feel free to reach out if you have suggestions or want to discuss machine learni
 - LinkedIn: [LinkedIn](https://linkedin.com/in/rishi-ravikumar)
 
 ## 📝 License
-This project is licensed under the MIT License — feel free to use, modify, and distribute as needed - see the [LICENSE](LICENSE) file for details.. (LICENSE.md)
+This project is licensed under the MIT License — feel free to use, modify, and distribute as needed - see the [LICENSE](LICENSE) file for details..
 
 ---
 
