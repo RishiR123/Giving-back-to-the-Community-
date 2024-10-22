@@ -4,7 +4,7 @@
 
 > **A Comprehensive Collection of Machine Learning Algorithms Explained for Everyone!**
 
-Welcome to **Giving Back to the Community**, a repository where I explain and break down variou machine learning algorithms with clear explanations, Python implementations, and practical use cases. This project is intended to **demystify machine learning** for all and contribute to the open-source community.
+Welcome to **Giving Back to the Community**, a repository where I explain and break down various machine learning algorithms with clear explanations, Python implementations, and practical use cases. This project is intended to **demystify machine learning** for all and contribute to the open-source community.
 
 
 ## 💡 Introduction
@@ -64,8 +64,11 @@ Follow the [Contribution Guidelines](CONTRIBUTING.md) for more details on how to
 
 Feel free to reach out if you have suggestions or want to discuss machine learning topics!
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/rishi-ravikumar)
+- Email: rishiininternet@gmail.com
+- LinkedIn: [LinkedIn](https://linkedin.com/in/rishi-ravikumar)
+
+## 📝 License
+This project is licensed under the MIT License — feel free to use, modify, and distribute as needed. (LICENSE.md)
 
 ---
 
