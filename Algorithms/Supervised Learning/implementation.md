@@ -4,9 +4,8 @@
 
 Make sure to install the required libraries:
 
-```bash
-pip install numpy pandas scikit-learn
 
+```python
 
 import numpy as np
 import pandas as pd
