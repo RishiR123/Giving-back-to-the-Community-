@@ -1,5 +1,5 @@
 
-### 6. **example.md**
+### **Example**
 This file can provide a detailed example of a dataset and how to use Linear Regression.
 
 ```markdown
